@@ -122,7 +122,7 @@ if st.button("🔮 Predict Price"):
                 "Carpet Area": [int(carpet_area)],
                 "Bathroom": [int(bathroom)],
                 "Balcony": [int(balcony)],
-                "Rooms": [int(bhk)],
+                "Bhk": [int(bhk)],
                 "Floor": [int(floor)]
             })
 
